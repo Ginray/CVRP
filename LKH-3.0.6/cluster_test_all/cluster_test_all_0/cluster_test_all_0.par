@@ -1,0 +1,12 @@
+SPECIAL
+PROBLEM_FILE = cluster_test_all/cluster_test_all_0/cluster_test_all_0.vrp
+MAX_TRIALS = 100000000
+RUNS = 5
+TRACE_LEVEL = 1
+MOVE_TYPE = 4
+MTSP_OBJECTIVE = MINMAX
+MTSP_SOLUTION_FILE = cluster_test_all/cluster_test_all_0/cluster_test_all_0.tour
+TIME_LIMIT = 60000
+INITIAL_TOUR_ALGORITHM=CVRP
+PI_FILE = cluster_test_all/cluster_test_all_0/cluster_test_all_0.pi
+CANDIDATE_FILE = cluster_test_all/cluster_test_all_0/cluster_test_all_0.cand

@@ -1,0 +1,12 @@
+SPECIAL
+PROBLEM_FILE = cluster_12_12_7000_service_time/cluster_12_12_7000_service_time.vrp
+MAX_TRIALS = 10000000
+MTSP_MAX_SIZE = 60
+RUNS = 5
+MOVE_TYPE = 4
+MTSP_OBJECTIVE = MINMAX
+MTSP_SOLUTION_FILE = cluster_12_12_7000_service_time/cluster_12_12_7000_service_time.tour
+TIME_LIMIT = 1200
+INITIAL_TOUR_ALGORITHM=CVRP
+PI_FILE = cluster_12_12_7000_service_time/cluster_12_12_7000_service_time.pi
+CANDIDATE_FILE = cluster_12_12_7000_service_time/cluster_12_12_7000_service_time.cand

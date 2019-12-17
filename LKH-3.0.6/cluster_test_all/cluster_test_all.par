@@ -1,0 +1,14 @@
+SPECIAL
+PROBLEM_FILE = cluster_test_all/cluster_test_all.vrp
+CLUSTERING_K = 5
+CLUSTERING_FILENAME = cluster_test_all/kmeans_test_all.vrp
+MAX_TRIALS = 100
+RUNS = 5
+TRACE_LEVEL = 1
+MOVE_TYPE = 4
+MTSP_OBJECTIVE = MINMAX
+MTSP_SOLUTION_FILE = cluster_test_all/cluster_test_all.tour
+TIME_LIMIT = 1
+INITIAL_TOUR_ALGORITHM=CVRP
+PI_FILE = cluster_test_all/cluster_test_all.pi
+CANDIDATE_FILE = cluster_test_all/cluster_test_all.cand

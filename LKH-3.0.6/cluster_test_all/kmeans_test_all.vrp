@@ -1,0 +1,7 @@
+LAMBDA1 = 5e-7
+LAMBDA2 = 1e-8
+LAMBDA3 = 1
+MAX_POINT_NUM = 3800
+MAX_DEMAND = 1000000
+CLUSTER_FILEPATH = /home/ginray/ginray/LKH-3.0.6/cluster_test_all/cluster_test_all/
+CLUSTER_FILENAME = cluster_test_all

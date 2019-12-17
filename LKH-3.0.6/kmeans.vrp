@@ -1,0 +1,7 @@
+LAMBDA1 = 5e-7
+LAMBDA2 = 1e-8
+LAMBDA3 = 1
+MAX_POINT_NUM = 1520
+MAX_DEMAND = 300000
+CLUSTER_FILEPATH = /home/ginray/ginray/LKH-3.0.6/cluster4917_temp/
+CLUSTER_FILENAME = clustertemp
